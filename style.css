@@ -5,7 +5,7 @@ body {
   font-family: Roboto;
   font-size: 10px;
   line-height: 3.5em;
-  front-weight: 300;
+  font-weight: 300;
   margin: 0;
   padding: 0;
 }
@@ -15,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-   front-family: Roboto Condensed;
+   font-family: Roboto Condensed;
 }
 h1 {
   font-size: 9em;
@@ -33,7 +33,8 @@ h2 {
 h3 {
   font-size: 4.2em;
   text-align: center;
-  line-height: 1em;   
+  line-height: 1em;
+     
 }
 h4 {
   font-size: 1.5em;
